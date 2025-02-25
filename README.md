@@ -18,7 +18,7 @@
 ### 🖥️ **IT & Networking**  
 ![Computer Hardware](https://img.shields.io/badge/Computer%20Hardware-FF6F00?style=for-the-badge&logo=dell&logoColor=white)  ![Software Setup](https://img.shields.io/badge/Software%20Setup-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![Network Management](https://img.shields.io/badge/Networking-1572B6?style=for-the-badge&logo=cisco&logoColor=white)  ![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)  ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
 
-### 🌍 **WordPress, CMS, VPS Management **  
+### 🌍 **WordPress, CMS, VPS Management**
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)  ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)  ![Beaver Builder](https://img.shields.io/badge/Beaver%20Builder-FF7139?style=for-the-badge&logo=wordpress&logoColor=white)![Website Optimization](https://img.shields.io/badge/Website%20Optimization-FF5733?style=for-the-badge&logo=google-pagespeed-insights&logoColor=white)  ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)  
 
 
