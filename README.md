@@ -1,6 +1,6 @@
 # Hi there! 🗣 I'm Dan J.  
 
-## 🎯 **I'm Passionate about Fullstack Development and Networks**
+## 🎯 **I'm Passionate about Software Development 😀**
 <br />
 
 ## 🕷 About Me  
