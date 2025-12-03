@@ -1,15 +1,6 @@
 # Hi there! 🗣 I'm Dan J.  
-
-## 🎯 **I'm Passionate about Software Development 😀**
+💻 I'm a **Full-stack Web Developer** with experience in **React/React Native, Node, Express and JavaScript**.  
 <br />
-
-## 🕷 About Me  
-
-- 💻 I'm a **Full-stack Web Developer** with experience in **React/React Native, Node, Express and JavaScript**.  
-- 📈 I enjoy working on **data-driven projects** with complex rules and logic.  
-- 📚 I love learning new **technologies, frameworks, and best practices**.  
-- 🚅 Fun fact: I'm a huge fan of **Honkai: Star Rail** (🔥✈)!  
-
 ## 💼 Professional Experience
 
 ### **Jardin de Miramar Events Venue**
